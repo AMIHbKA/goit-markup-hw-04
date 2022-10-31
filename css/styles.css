@@ -485,7 +485,7 @@ body {
 }
 
 .address-list .foo-mail {
-  text-shadow: 0 4px 4px rgba(0 0 0 / 25%);
+  text-shadow: 0 4px 4px rgb(0 0 0 / 25%);
 }
 
 .address-list .address-link {
