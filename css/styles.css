@@ -109,9 +109,9 @@ body {
   fill: currentcolor;
 }
 
-.contacts-list .item {
+/* .contacts-list .item {
   display: block;
-}
+} */
 
 .contacts-list .link {
   color: var(--main-grey-color);
